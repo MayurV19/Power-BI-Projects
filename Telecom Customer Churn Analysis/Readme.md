@@ -1,6 +1,7 @@
 # **Telecom Customer Churn Analysis** 📊  
 Live Dashboard: [Click here](https://bit.ly/3U4obQE)
-Presetation: [Click here](https://www.linkedin.com/posts/mayurv19_case-study-telecom-customer-churn-analysis-activity-7155195610730561536-U_au)
+
+Presentation: [Click here](https://www.linkedin.com/posts/mayurv19_case-study-telecom-customer-churn-analysis-activity-7155195610730561536-U_au)
 ## Introduction 🌐
 
 Ever heard of the **"Silent Exodus"** in business? It's called *Customer Churn*, and it refers to the percentage of customers who discontinue using a company's products or services within a specific timeframe. Understanding and managing churn is pivotal for a company's sustainable growth, right alongside *customer acquisition rate*.
