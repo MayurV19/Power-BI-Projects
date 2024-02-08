@@ -32,19 +32,87 @@ Leveraging the capabilities of Power BI, I embarked on building a sophisticated 
 ### 🌟 Result:
 The implementation of this analytical solution can potentially result in significant improvements for AtliQ Hardware. With enhanced visibility into key metrics and performance indicators, the company was able to achieve profitability gains and make data-driven decisions to capture market share in both established and emerging markets. The success of this project not only elevated the company's analytical capabilities but also positioned it for sustained growth and success in the competitive landscape of consumer electronics.
 
-**Key Learnings and Implementations:**
+
+
+
+
+## **Preview:**
+
+### 1. Home View
+<div align="center">
+  <img src="Assets/1.Home.jpg" alt="Image Alt Text" width="750">
+  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
+</div>
+
+### 2. Finance View
+<div align="center">
+  <img src="Assets/2.FinanceView.jpg" alt="Image Alt Text" width="750">
+  <p><em> Finance View: P&L Statement. Key Financial KPIs.</em></p>
+</div>
+
+- The finance team in the company is concerned with financial reporting, budgeting, financial strategy and decision support.
+- The view can be used for **budgeting, financial reporting, strategic financial planning** and assessing the **financial health** of company.
+- The most important instrument of financial reporting is the P&L statement (also known as the income  statement). It is critical because it helps in:
+  - **Quantifying Performance**. 
+  - **Profitability Analysis**. 
+  - **Financial Health Assessment**.
+  - **Accountability and Transparency**.
+
+### 3. Sales View
+<div align="center">
+  <img src="Assets/3.SalesView.jpg" alt="Image Alt Text" width="750">
+  <p><em> Sales View: Customer Sales Performance. Market Performance Matrix GM% v/s NS. Unit Economics. </em></p>
+</div>
+
+- The sales team in the company primarily concerned with building relationships with customers, regotiating terms, ensuring seamless transactions and evaluating customer performance in addition to driving revenue growth.
+- **Unit Economics**. It conveys how much money (by means of pre- and post- invoice deductions) is being spent to drive Revenue (Net Sales - NS) and how much of it translates to profit (Gross Margin - GM) after deduction of the Total COGS (Cost Of Goods Sold).
+- **Customer Performance**. Evaluating the performance of each customer helps the company realise higher revenue by negotiating better terms and focussing on high contributing customers.
+- **Performance Matrix**. Study of the GM% v/s NS indicates the operational efficiency in translating net sales into gross margin.
+
+### 4. Marketing View
+<div align="center">
+  <img src="Assets/4.MarketingView.jpg" alt="Image Alt Text" width="750">
+  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
+</div>
+
+### 5. Supply Chain View
+<div align="center">
+  <img src="Assets/5.SupplyChain View.jpg" alt="Image Alt Text" width="750">
+  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
+</div>
+
+### 6. Executive View
+<div align="center">
+  <img src="Assets/6.ExecutiveView.jpg" alt="Image Alt Text" width="750">
+  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
+</div>
+
+### 7. Miscellaneous 1 View
+<div align="center">
+  <img src="Assets/7.Miscellaneous1.jpg" alt="Image Alt Text" width="750">
+  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
+</div>
+
+### 8. Miscellaneous 2 View
+<div align="center">
+  <img src="Assets/8.Miscellaneous2.jpg" alt="Image Alt Text" width="750">
+  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
+</div>
+
+
+## **Key Learnings and Implementations:**
 
 - **Project Management:** Utilized Project Charter for effective planning and scoping.
 - **Stakeholder Engagement:** Conducted comprehensive Stakeholder Mapping Analysis.
 - **Advanced DAX:** Implemented complex DAX queries, formulas, and optimization techniques.
-- **Dynamic Reporting:** Leveraged Dynamic Switch using Field parameters.
+- **Dynamic Reporting:** Leveraged Dynamic Switch using <ins>Field parameters</ins>.
 - **Contextual Understanding:** Gained in-depth understanding of filter, query, and row context.
 - **Advanced Analytics:** Incorporated bookmarks, tooltips, and drill-throughs for deeper insights.
 - **Meaningful Visualizations:** Used KPIs and informative visuals to enhance data comprehension.
 - **Publishing and Management:** Successfully published reports and managed workspaces.
 - **Executive Dashboard:** Designed a dedicated dashboard for C-Suite executives.
 
-**Key Terminology:**
+## **Key Terminology:**
 
 - **Sales & Finance:** Gross Sales, Net Invoice Sales, Pre/Post-Invoice Deductions, Net Sales, Total COGS, Gross/Net Margin, Operational Costs, Net Profit, Customer Gap Tolerance.
 - **Unit Economics:** Net Sales to Gross Margin conversion, Gross Margin to Net Profit Conversion.
@@ -54,12 +122,7 @@ The implementation of this analytical solution can potentially result in signifi
 - **Product Channels:** Retailer, Direct, Distributor.
 - **Reporting:** Year-to-Date, Year-to-Go➡️.
 
-**BI 360 Challenge tasks:**
-
-- Conditional Formatting to highlight customers not meeting GM % Target: ✅ Implemented in Miscellaneous 1 
-- Display top and bottom 5 products for the top 5 markets: ✅ Implemented in Miscellaneous 2 
-
-**Key Features of the Power BI Dashboard:**
+## **Key Features of the Power BI Dashboard:**
 
 - **Home Page:** The home page serves as a seamless navigation hub, ensuring quick access to essential information.
 - **Finance View:** P & L table with critical KPIs, interactive charts, and customizable parameters to facilitate a comprehensive financial analysis with respect to time.
@@ -70,10 +133,10 @@ The implementation of this analytical solution can potentially result in signifi
 - **Miscellaneous 1:** Built according to a feature request. Evaluating customer performance in relation to target expectations and actual performance, focusing on Gross Margin %.
 - **Miscellaneous 2:** Built according to a feature request. Conducting a thorough analysis of essential metrics, identifying the top 5 and bottom 5 products within the top 5 performing markets.
 
-## **Preview:**
 
-### 1. Home View
-<div align="center">
-  <img src="Assets/1.Home.jpg" alt="Image Alt Text" width="750">
-  <p><em> Home View: Landing page of report. Acts as a central hub from where one can navigate to other views. </em></p>
-</div>
+## **BI 360 Challenge tasks:**
+
+- Conditional Formatting to highlight customers not meeting GM % Target: ✅ Implemented in Miscellaneous 1 
+- Display top and bottom 5 products for the top 5 markets: ✅ Implemented in Miscellaneous 2 
+
+
